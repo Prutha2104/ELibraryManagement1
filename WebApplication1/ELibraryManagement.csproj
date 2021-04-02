@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="adminauthormanagement.aspx" />
     <Content Include="adminbookissuing.aspx" />
+    <Content Include="AdminManagement.aspx" />
     <Content Include="adminpublishermanagement.aspx" />
     <Content Include="books\b1.jpg" />
     <Content Include="books\b2.jpg" />
@@ -1769,6 +1770,13 @@
     </Compile>
     <Compile Include="adminbookissuing.aspx.designer.cs">
       <DependentUpon>adminbookissuing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManagement.aspx.cs">
+      <DependentUpon>AdminManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminManagement.aspx.designer.cs">
+      <DependentUpon>AdminManagement.aspx</DependentUpon>
     </Compile>
     <Compile Include="adminpublishermanagement.aspx.cs">
       <DependentUpon>adminpublishermanagement.aspx</DependentUpon>
