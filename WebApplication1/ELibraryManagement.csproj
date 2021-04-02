@@ -71,6 +71,7 @@
     <Content Include="adminbookissuing.aspx" />
     <Content Include="AdminManagement.aspx" />
     <Content Include="adminpublishermanagement.aspx" />
+    <Content Include="BookInventoryPage.aspx" />
     <Content Include="books\b1.jpg" />
     <Content Include="books\b2.jpg" />
     <Content Include="books\b3.jpg" />
@@ -1784,6 +1785,13 @@
     </Compile>
     <Compile Include="adminpublishermanagement.aspx.designer.cs">
       <DependentUpon>adminpublishermanagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookInventoryPage.aspx.cs">
+      <DependentUpon>BookInventoryPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookInventoryPage.aspx.designer.cs">
+      <DependentUpon>BookInventoryPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
