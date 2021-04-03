@@ -9,7 +9,7 @@
                   <div class="row">
                      <div class="col">
                         <center>
-                           <img width="100px" src="imgs/generaluser.png"/>
+                           <img width="100px" src="images/generaluser.png"/>
                         </center>
                      </div>
                   </div>
@@ -161,7 +161,7 @@
                   <div class="row">
                      <div class="col">
                         <center>
-                           <img width="100px" src="imgs/books1.png"/>
+                           <img width="100px" src="images/books1.png"/>
                         </center>
                      </div>
                   </div>
