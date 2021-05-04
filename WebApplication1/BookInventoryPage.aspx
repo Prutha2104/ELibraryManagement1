@@ -9,9 +9,9 @@
                <div class="card-body">
                   <div class="row">
                      <div class="col">
-                        <center>
+                        
                            <h4>Book Details</h4>
-                        </center>
+                        
                      </div>
                   </div>
                   <div class="row">
