@@ -9,16 +9,16 @@
                <div class="card-body">
                    <div class="row">
                      <div class="col">
-                        <center>
+                         
                            <h4>Book Issuing</h4>
-                        </center>
+                         
                      </div>
                   </div>
                   <div class="row">
                      <div class="col">
-                        <center>
+                         
                            <img width="100px" src="images/books.png"/>
-                        </center>
+                         
                      </div>
                   </div>
                   
@@ -104,9 +104,9 @@
                  
                   <div class="row">
                      <div class="col">
-                        <center>
+                         
                            <h4>Issued book list</h4>
-                        </center>
+                         
                      </div>
                   </div>
                   <div class="row">

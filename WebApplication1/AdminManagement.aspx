@@ -10,16 +10,16 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col">
-                                <center>
+                                 
                            <h4>Member Details</h4>
-                        </center>
+                         
                             </div>
                         </div>
                         <div class="row">
                             <div class="col">
-                                <center>
+                                 
                            <img width="100px" src="images/generaluser.png" />
-                        </center>
+                         
                             </div>
                         </div>
                         <div class="row">
@@ -121,9 +121,9 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col">
-                                <center>
+                                 
                            <h4>Member List</h4>
-                        </center>
+                         
                             </div>
                         </div>
                         <div class="row">

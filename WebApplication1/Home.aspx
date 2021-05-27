@@ -6,10 +6,10 @@
            <img src="images/home-bg.jpg" class="img-fluid"/>
     </section>
     <section>
-           <div class="container bg-secondary">
+           <div class="container bg-body">
                <div class="row">
                    <div class="col-12">
-                       <center>
+                        <center>
                        <h2>Our Features</h2>
                        <p><b>Our 3 Primary Features :-</b></p>
                         </center>
@@ -21,21 +21,21 @@
                        <img src="images/digital-inventory.png" width="150px" />
                        <h4>Digital Book Inventory</h4>
                        <p>Manages inventory digitally. Very effezzient Elibrary</p>
-                        </center>
+                       </center>
                    </div>
                    <div class="col-md-4">
                        <center>
                        <img src="images/search-online.png" width="150px" />
                        <h4>Search Books</h4>
                        <p>Manages inventory digitally. Very effezzient Elibrary</p>
-                        </center>
+                   </center>
                    </div>
                    <div class="col-md-4">
                        <center>
                        <img src="images/defaulters-list.png" width="150px" />
                        <h4>Defaulter List</h4>
                        <p class="">Manages inventory digitally. Very effezzient Elibrary</p>
-                        </center>
+                       </center>
                    </div> 
                </div>               
            </div>
@@ -44,12 +44,12 @@
         <img src="images/in-homepage-banner.jpg" class="img-fluid" />
     </section>
     <section>
-           <div class="container bg-secondary">
+           <div class="container bg-body">
                <div class="row">
                    <div class="col-12">
                        <center>
-                       <h2>Our Process</h2>
-                       <p><b>We have simple 3 step process :-</b></p>
+                       <h2>Our Facilities</h2>
+                       <p><b>We have 3 facilities at online library:-</b></p>
                         </center>
                    </div>
                </div>
@@ -63,19 +63,19 @@
                         </center>
                    </div>
                    <div class="col-md-4">
-                       <center>
+                    <center>
                        <img src="images/search-online.png" width="150px" />
                        <h4>Search Books</h4>
                        <p>Search your book which you want to read Elibrary</p>
-                        </center>
+                       </center>
                    </div>
                    <div class="col-md-4">
-                       <center>
+                    <center>
                        <img src="images/library.png" width="150px"/>
                        
                        <h4>Visit Us</h4>
-                       <p class="">Visit us at our website. www.elib.com</p>
-                        </center>
+                       <p class="">Visit us at our website. www.ebook.com</p>
+                       </center>
                    </div> 
                </div>               
            </div>
