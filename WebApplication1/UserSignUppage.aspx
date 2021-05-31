@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="UserSignUppage.aspx.cs" Inherits="WebApplication1.UserSignUppage" %>
+﻿
+<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="UserSignUppage.aspx.cs" Inherits="WebApplication1.UserSignUppage" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -123,22 +124,22 @@
                      </div>
                   </div>
                   <div class="row">
-                    <%-- <div class="col-md-6">
+                    <div class="col-md-6">
                         <label>User ID</label>
                         <div class="form-group">
                            <asp:TextBox class="form-control" ID="TextBox8" runat="server" placeholder="User ID"></asp:TextBox>
                         </div>
-                     </div>--%>
-                      <div class="col-md-6">
+                     </div>
+                      <%--<div class="col-md-6">
                           <label for="validationCustomUsername" class="form-label">Username</label>
                           <div class="input-group has-validation">
-                              <%--<span class="input-group-text" id="inputGroupPrepend">@</span>--%>
+                              <%--<span class="input-group-text" id="inputGroupPrepend">@</span>
                               <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
                               <div class="invalid-feedback">
                                   Please choose a username.
                               </div>
                           </div>
-                      </div>
+                      </div>--%>
                      <div class="col-md-6">
                         <label>New Password</label>
                         <div class="form-group">

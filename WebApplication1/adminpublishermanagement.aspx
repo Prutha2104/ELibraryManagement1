@@ -9,16 +9,16 @@
                <div class="card-body">
                    <div class="row">
                      <div class="col">
-                        <center>
+                         
                            <h4>Publisher Details</h4>
-                        </center>
+                         
                      </div>
                   </div>
                   <div class="row">
                      <div class="col">
-                        <center>
+                         
                            <img width="100px" src="images/publisher.png"/>
-                        </center>
+                         
                      </div>
                   </div>
                   
@@ -70,9 +70,9 @@
                <div class="card-body">
                   <div class="row">
                      <div class="col">
-                        <center>
+                         
                            <h4>Publisher List</h4>
-                        </center>
+                         
                      </div>
                   </div>
                   <div class="row">

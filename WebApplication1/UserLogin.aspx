@@ -39,7 +39,7 @@
 
                                 <div class="form-group">
                                     <center>
-                                    <asp:Button ID="Button1" CssClass="btn btn-primary btn-success" runat="server" Text="Login" width="500px" margin="10px"/>
+                                    <asp:Button ID="Button1" CssClass="btn btn-primary btn-success" runat="server" Text="Login" width="500px" margin="10px" OnClick="Button1_Click"/>
                                                              
                                     
                                         </center>
@@ -52,7 +52,7 @@
                                 <div class="form-group">
                                     <center>
                                 <a href="UserSignUppage.aspx">
-                                    <asp:Button ID="Button2" runat="server" class="btn btn-info btn-block" Text="Sign Up" Width="500px" style="margin:auto"/>
+                                    <asp:Button ID="Button2" runat="server" class="btn btn-info btn-block" Text="Sign Up" Width="500px" style="margin:auto" OnClick="Button2_Click"/>
                                     </a>
                                          </center>
                                         </div>
