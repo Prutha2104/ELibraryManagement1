@@ -35,15 +35,14 @@ namespace WebApplication1
         }
 
         //to check whether member exists or not
-        bool CheckMemberExists()
+        public bool CheckMemberExists()
         {
             try
             {
                 SqlConnection con = new SqlConnection(strcon);
                 if (con.State == ConnectionState.Closed)
                 { con.Open(); }
-
-                SqlCommand cmd = new SqlCommand("select * from MemberMaster where member_id='"+TextBox8.Text.Trim()+"')", con);
+                SqlCommand cmd = new SqlCommand("select * from MemberMaster where memeberid='"+TextBox8.Text.Trim()+"')", con);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
@@ -55,14 +54,14 @@ namespace WebApplication1
                 {
                     return false;
                 }
-                    cmd.ExecuteNonQuery();
                 con.Close();
-                Console.WriteLine("test");
-                Response.Write("<script>alert('Sign Up Successful. Go to User Login to Login');</script>");
+                //Console.WriteLine("test");
+                //Response.Write("<script>alert('Sign Up Successful. Go to User Login to Login');</script>");
             }
             catch (Exception ex)
             {
                 Response.Write("<script>alert('" + ex.Message + "');</script>");
+                return false;
             }
         }
         //user defined method
